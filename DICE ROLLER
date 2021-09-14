@@ -18,3 +18,4 @@ while x == (""):
     print(random_number)
     x = input("Press x to quit Press enter to roll again")
     
+print("Goodbye")
