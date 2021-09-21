@@ -15,3 +15,15 @@ N/A
 
 ### Reflection
 In this assignment I got stuck a few times because I didn't know how to do a few things I already knew in java. I learned how to cut off decimals to make them cleaner, how to turn a number into a string, and how to make a function in python.
+
+### Assignment Description
+This assignment I had to make a quadradic solver in python. I needed it to print out the roots of 3 numbers if they are real. If they are real it will print out the roots. If they aren't it will print out no real roots.
+
+### Evidence
+![image](https://user-images.githubusercontent.com/60943598/134185036-807bdca6-c108-4142-8c40-fb7c4ae587f3.png)
+
+### Wiring
+N/A
+
+### Reflection 
+In this assignment I had to learn how to square numbers in python. I had to completly restart because I forgot to save my code from yesterday on github.
