@@ -1,4 +1,4 @@
-# Python Program 01 - Calculator (ENGR4)
+# Python Program 03 - Strings and Loops (ENGR4)
 
 #Written by Watts Brown
 
