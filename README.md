@@ -3,6 +3,7 @@
 ## Table of Contents
 * [Python_Calculator](#Python_Calculator)
 * [Python Quadratic Solver](#Quadratic_Solver)
+* [Python Strings and Loops](#Strings_and_Loops)
 
 ### Assignment Description
 This assignment I had to make a calculator in python. It had to print out the sum, difference, product, quotient, and modulo of 2 numbers. We also had to make our own function.
@@ -27,3 +28,15 @@ N/A
 
 ### Reflection 
 In this assignment I had to learn how to square numbers in python. I had to completly restart because I forgot to save my code from yesterday on github.
+
+### Assignment Description
+Today I had to make a program using strings and loops. I had to store a users sentence in a variable and split it into seperate words. Then I had to seperate the words into seperate letters and print them out.
+
+### Evidence 
+![image](https://user-images.githubusercontent.com/60943598/134522900-4e601132-464f-4292-ba74-220a080a9a3f.png)
+
+### Wiring
+N/A
+
+### Reflection 
+In this assignment I didn't have meany problems. The only big problem I had was getting the "-" to print after a word is finished. I learned how to use for loops in python and split a sentence into seperate words.
