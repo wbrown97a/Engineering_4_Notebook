@@ -6,40 +6,71 @@
 
 head =      "   0"
 arms =      "  \|/"
+oneArm =    "  \|"
 torso =     "   |"
 twoLegs =   "  / \ "
+oneLeg =    "  /"
 
 def body(limbs):
     print("|---┐")  
-    if limbs == 4:
+    if limbs == 7:
         print("")
         print("")
         print("")
         print("")
-    if limbs == 3:
+        print("")
+        print("")
+    if limbs == 6:
         print(head)
         print("")
         print("")
         print("")
-    if limbs == 2:
+        print("")
+        
+    if limbs == 5:
+        print(head)
+        print(oneArm)
+        print("")
+        print("")
+        print("")
+        
+    if limbs == 4:
         print(head)
         print(arms)
         print("")
         print("")
-    if limbs == 1:
+        print("")
+        
+    if limbs == 3:
         print(head)
         print(arms)
         print(torso)
         print("")
+        print("")
+        
+    if limbs == 2:
+        print(head)
+        print(arms)
+        print(torso)
+        print(oneLeg)
+        print("")
+        
+    if limbs == 1:
+        print(head)
+        print(arms)
+        print(torso)
+        print(twoLegs)
+        print("")
+        
     if limbs == 0:
         print(head)
         print(arms)
         print(torso)
         print(twoLegs)
-        
+        print("")
 
 word = input("Player 1 Enter a word")
-limbs = 4
+limbs = 7
 guesses = 0 
 print("\n" *50 )
 guess = "_" * len(word)
