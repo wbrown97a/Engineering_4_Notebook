@@ -37,17 +37,13 @@ def body(limbs):
         print(torso)
         print(twoLegs)
         
-def wordLength():
-    length = len(word)
-    print ("_ " * length)
 
 word = input("Player 1 Enter a word")
 limbs = 4
 guesses = 0 
 print("\n" *50 )
-guess = "_ " * len(word)
+guess = "_" * len(word)
 body(limbs)
-wordLength()
 correctLetters = " "
 print(guess)
 
@@ -58,7 +54,7 @@ while (limbs > 0 and guess != word) :
         correctLetters = correctLetters + letterGuess
     for spot in range(len(word)):
         if word[spot] == letterGuess:
-            guess = guess[:spot] + letterGuess + guess[spot+1:]
+            guess = guess[:spot] + word[spot] + guess[spot+1:]
             correctGuess = True 
             
             
