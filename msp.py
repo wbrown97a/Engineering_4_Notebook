@@ -9,7 +9,7 @@ arms =      "  \|/"
 torso =     "   |"
 twoLegs =   "  / \ "
 
-def body(limbs): #Function for drawing the msp on incorrect guesses and correct guesses.
+def body(limbs):
     print("|---┐")  
     if limbs == 4:
         print("")
@@ -37,25 +37,24 @@ def body(limbs): #Function for drawing the msp on incorrect guesses and correct 
         print(torso)
         print(twoLegs)
         
-def wordLength(): #Function for setting underscore length.
-    length = len(word)
-    print ("_ " * length)
 
 word = input("Player 1 Enter a word")
 limbs = 4
 guesses = 0 
 print("\n" *50 )
+guess = "_" * len(word)
 body(limbs)
-guess = input("Player 2 Guess a letter")
-wordLength()
+correctLetters = " "
 print(guess)
 
 while (limbs > 0 and guess != word) :
     correctGuess = False
     letterGuess = input("Player 2 Guess a letter")
+    if correctLetters in word:
+        correctLetters = correctLetters + letterGuess
     for spot in range(len(word)):
         if word[spot] == letterGuess:
-            guess = guess[:spot] + letterGuess + guess[spot+1:]
+            guess = guess[:spot] + word[spot] + guess[spot+1:]
             correctGuess = True 
             
             
