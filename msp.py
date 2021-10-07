@@ -45,8 +45,8 @@ word = input("Player 1 Enter a word")
 limbs = 4
 guesses = 0 
 print("\n" *50 )
-guess = input("Player 2 Guess a letter")
 body(limbs)
+guess = input("Player 2 Guess a letter")
 wordLength()
 print(guess)
 
