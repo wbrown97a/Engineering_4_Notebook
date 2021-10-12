@@ -4,6 +4,7 @@
 * [Python_Calculator](#Python_Calculator)
 * [Python Quadratic Solver](#Quadratic_Solver)
 * [Python Strings and Loops](#Strings_and_Loops)
+* [Python MSP](#Python_MSP)
 
 ### Assignment Description
 This assignment I had to make a calculator in python. It had to print out the sum, difference, product, quotient, and modulo of 2 numbers. We also had to make our own function.
@@ -40,3 +41,15 @@ N/A
 
 ### Reflection 
 In this assignment I didn't have meany problems. The only big problem I had was getting the "-" to print after a word is finished. I learned how to use for loops in python and split a sentence into seperate words.
+
+### Assignment Description
+I had to make a MSP application in python(Man Shaped Pinata). I had to make a function and use a while loop to complete this assignment. There are 2 users for this program. The first one enters a word, and the second one tries to guess it letter by letter.
+
+### Evidence
+![image](https://user-images.githubusercontent.com/60943598/136963488-bf0b050e-c117-45ab-9ac6-61cfb3caec50.png)
+
+### Wiring
+N/A
+
+### Reflection
+In this assignment I had a problem with getting the msp drawing to show up. I tried to run the function in a couple of places then found the spot where it would print. I also had a problem where the only way the word would work is if you type the letters in the right order. I made som adjustments to the code and it works with entering the letters in any order.
