@@ -4,14 +4,14 @@
 
 #9.28.2021
 
-head =      "   0"
+head =      "   0"      #variables to call for the msp drawing function
 arms =      "  \|/"
 oneArm =    "  \|"
 torso =     "   |"
 twoLegs =   "  / \ "
 oneLeg =    "  /"
 
-def body(limbs):
+def body(limbs):  #function to draw the msp when the player gets a letter wrong
     print("|---┐")  
     if limbs == 7:
         print("")
@@ -69,16 +69,16 @@ def body(limbs):
         print(twoLegs)
         print("")
 
-word = input("Player 1 Enter a word")
-limbs = 7
+word = input("Player 1 Enter a word") #player one's input.
+limbs = 7  #number of lives player 2 has
 guesses = 0 
 print("\n" *50 )
-guess = "_" * len(word)
-body(limbs)
+guess = "_" * len(word) #sets "_" for missing letter spots
+body(limbs) 
 correctLetters = " "
 print(guess)
 
-while (limbs > 0 and guess != word) :
+while (limbs > 0 and guess != word) : #loop for player two's guess and seeing if it is right or wrong
     correctGuess = False
     letterGuess = input("Player 2 Guess a letter")
     if correctLetters in word:
@@ -94,7 +94,7 @@ while (limbs > 0 and guess != word) :
 
     body(limbs)
     print(guess)
-if(limbs == 0): 
+if(limbs == 0): #Tells you if you win or not when the game is over
     body(limbs)
     print("No more guesses, the word was " + word)
 else: 
