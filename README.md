@@ -5,6 +5,7 @@
 * [Python Quadratic Solver](#Quadratic_Solver)
 * [Python Strings and Loops](#Strings_and_Loops)
 * [Python MSP](#Python_MSP)
+### Python Calculator
 
 ### Assignment Description
 This assignment I had to make a calculator in python. It had to print out the sum, difference, product, quotient, and modulo of 2 numbers. We also had to make our own function.
@@ -18,6 +19,8 @@ N/A
 ### Reflection
 In this assignment I got stuck a few times because I didn't know how to do a few things I already knew in java. I learned how to cut off decimals to make them cleaner, how to turn a number into a string, and how to make a function in python.
 
+#### Python Quadratic Solver
+
 ### Assignment Description
 This assignment I had to make a quadradic solver in python. I needed it to print out the roots of 3 numbers if they are real. If they are real it will print out the roots. If they aren't it will print out no real roots.
 
@@ -30,6 +33,8 @@ N/A
 ### Reflection 
 In this assignment I had to learn how to square numbers in python. I had to completly restart because I forgot to save my code from yesterday on github.
 
+#### Python Strings and Loops
+
 ### Assignment Description
 Today I had to make a program using strings and loops. I had to store a users sentence in a variable and split it into seperate words. Then I had to seperate the words into seperate letters and print them out.
 
@@ -41,6 +46,8 @@ N/A
 
 ### Reflection 
 In this assignment I didn't have meany problems. The only big problem I had was getting the "-" to print after a word is finished. I learned how to use for loops in python and split a sentence into seperate words.
+
+#### MSP
 
 ### Assignment Description
 I had to make a MSP application in python(Man Shaped Pinata). I had to make a function and use a while loop to complete this assignment. There are 2 users for this program. The first one enters a word, and the second one tries to guess it letter by letter.
