@@ -60,3 +60,17 @@ N/A
 
 ### Reflection
 In this assignment I had a problem with getting the msp drawing to show up. I tried to run the function in a couple of places then found the spot where it would print. I also had a problem where the only way the word would work is if you type the letters in the right order. I made som adjustments to the code and it works with entering the letters in any order.
+
+## Intro to CAD
+
+### Assignment Description
+In this assignment I made a skateboard using onshape. I learned how to use the "Use" tool. I also learned how to use the "Move face" tool.
+
+### Evidence 
+https://user-images.githubusercontent.com/60943598/138705747-6f13b12c-dfc1-4bec-8776-f927af8f214c.png
+
+### Part Link
+[Skateboard](https://cvilleschools.onshape.com/documents/e409389dfb1190b44e744eb1/w/549ea43b82658078da313b87/e/e8b7a5131a0543de33d33842?renderMode=0&uiState=6176b07ce3b78a3f7d1c7092)
+
+### Reflection
+In this assignment I didnt have many problems. I had a problem with the making the trucks more realistic part but that is it. I didn't have any problems with mates or building the skateboard parts.
