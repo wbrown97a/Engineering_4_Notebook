@@ -67,7 +67,8 @@ In this assignment I had a problem with getting the msp drawing to show up. I tr
 In this assignment I made a skateboard using onshape. I learned how to use the "Use" tool. I also learned how to use the "Move face" tool.
 
 ### Evidence 
-https://user-images.githubusercontent.com/60943598/138705747-6f13b12c-dfc1-4bec-8776-f927af8f214c.png
+![image](https://user-images.githubusercontent.com/60943598/139074674-36e321cc-1b40-40f3-95c3-2c78e9812166.png)
+
 
 ### Part Link
 [Skateboard](https://cvilleschools.onshape.com/documents/e409389dfb1190b44e744eb1/w/549ea43b82658078da313b87/e/e8b7a5131a0543de33d33842?renderMode=0&uiState=6176b07ce3b78a3f7d1c7092)
