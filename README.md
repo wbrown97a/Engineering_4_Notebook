@@ -74,7 +74,7 @@ In this assignment I made a skateboard using onshape. I learned how to use the "
 [Skateboard](https://cvilleschools.onshape.com/documents/e409389dfb1190b44e744eb1/w/549ea43b82658078da313b87/e/e8b7a5131a0543de33d33842?renderMode=0&uiState=6176b07ce3b78a3f7d1c7092)
 
 ### Reflection
-In this assignment I didnt have many problems. I had a problem with the making the trucks more realistic part but that is it. I didn't have any problems with mates or building the skateboard parts.
+In this assignment I didn't have many problems. I had a problem with the making the trucks more realistic part but that is it. I didn't have any problems with mates or building the skateboard parts.
 
 ## Intro to CAD - 3.1-3.4
 
@@ -82,3 +82,10 @@ In this assignment I didnt have many problems. I had a problem with the making t
 In this assignment I learned how to make variables that help you change values faster. I also learned how to use configurations.  The configurations made it so I only had to make 1 brick but I could change it into different forms with a few drop down menus.
 
 ### Evidence
+![image](https://user-images.githubusercontent.com/60943598/140954426-91c3d904-da2d-4502-98e0-a293dcfaa6c6.png)
+
+### Part Link
+[Duck](https://cvilleschools.onshape.com/documents/875abb8f17ebbdc9394a5b63/w/c1ab3291714d991b79ccded9/e/d949b2afaa658a681cf4e004)
+
+### Reflection 
+With this assignment I didn't have any problems. The mates all worked the way they were supposed to. The configurations all worked when I tested them and I  didn't have to make changes.
