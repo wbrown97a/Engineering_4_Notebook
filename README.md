@@ -75,3 +75,10 @@ In this assignment I made a skateboard using onshape. I learned how to use the "
 
 ### Reflection
 In this assignment I didnt have many problems. I had a problem with the making the trucks more realistic part but that is it. I didn't have any problems with mates or building the skateboard parts.
+
+## Intro to CAD - 3.1-3.4
+
+### Assignment Description
+In this assignment I learned how to make variables that help you change values faster. I also learned how to use configurations.  The configurations made it so I only had to make 1 brick but I could change it into different forms with a few drop down menus.
+
+### Evidence
