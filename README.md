@@ -94,12 +94,13 @@ In this assignment I didn't have many problems with it working. The screen is pr
 In this assignment I had to make the OLED screen print out 2 of the 3 values from the previous assignment. There also needed to be a circle that moves around the screen as the values change.
 
 ### Evidence
-
+![IMG-3192](https://user-images.githubusercontent.com/60943598/151387445-25b5764a-98fd-4460-a97c-791f0e6bd4bd.jpg)
 
 ### Wiring
-
+![IMG-3193](https://user-images.githubusercontent.com/60943598/151387440-e22e34c1-9138-4b97-bca3-dd96b77d4966.jpg)
 
 ### Reflection
+In this assignment the only problem I had was actually doing the assignment. I didn't get errors when I did it and it works properly. I made edits to my code from the assignment before to complete this one.
 
 ## Intro to CAD
 
