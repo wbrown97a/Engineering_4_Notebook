@@ -74,6 +74,32 @@ I had to wire a button and use provided code to make the raspberry pi safely tur
 ### Reflection
 In this assignment we followed instructions on a canvas page. I didn't run into any problems or errors. 
 
+## GPIO Pins I2C
+
+### Assignment Description
+I had to make an OLED screen print out the x, y, and z values from the accelerometer. The screen had to show the values changing as the accelerometer moves.
+
+### Evidence
+![IMG-3191](https://user-images.githubusercontent.com/60943598/151384724-8ab266a6-6812-41a9-9e21-be4bcfa83977.jpg)
+
+### Wiring
+![IMG-3190](https://user-images.githubusercontent.com/60943598/151384730-3936d043-ad0d-4190-ab9f-90ee7027acbc.jpg)
+
+### Reflection
+In this assignment I didn't have many problems with it working. The screen is printing out the values properly. The values are changing when the accelerometer moves.
+
+## Headless Accelerometer
+
+### Assignment Description
+In this assignment I had to make the OLED screen print out 2 of the 3 values from the previous assignment. There also needed to be a circle that moves around the screen as the values change.
+
+### Evidence
+
+
+### Wiring
+
+
+### Reflection
 
 ## Intro to CAD
 
