@@ -61,6 +61,12 @@ N/A
 ### Reflection
 In this assignment I had a problem with getting the msp drawing to show up. I tried to run the function in a couple of places then found the spot where it would print. I also had a problem where the only way the word would work is if you type the letters in the right order. I made som adjustments to the code and it works with entering the letters in any order.
 
+## Safe Shutdown RPi
+
+### Assignment Description
+I had to wire a button and use provided code to make the raspberry pi safely turn off when the button is pressed for 4 seconds. It also had to restart when the button is just pressed down and released.
+
+
 ## Intro to CAD
 
 ### Assignment Description
