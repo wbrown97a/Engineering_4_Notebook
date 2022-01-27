@@ -66,7 +66,9 @@ In this assignment I had a problem with getting the msp drawing to show up. I tr
 ### Assignment Description
 I had to wire a button and use provided code to make the raspberry pi safely turn off when the button is pressed for 4 seconds. It also had to restart when the button is just pressed down and released.
 
+### Evidence
 
+### Wiring
 ## Intro to CAD
 
 ### Assignment Description
